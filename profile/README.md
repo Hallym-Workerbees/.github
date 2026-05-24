@@ -84,7 +84,7 @@ GitOps 기반 배포 및 운영 환경 구성
 
 - **팀원 2**  
   빅데이터전공 / 20231114 / 황재문  
-  담당: AI · Wiki Structuring · RAG Pipeline
+  담당: AI · Wiki Structuring
 
 ---
 
