@@ -80,7 +80,7 @@ GitOps 기반 배포 및 운영 환경 구성
 
 - **팀원 1**  
   빅데이터전공 / 20215106 / 강채운  
-  담당: Infrastructure · Backend · Kubernetes
+  담당: Infrastructure · Web · Kubernetes
 
 - **팀원 2**  
   빅데이터전공 / 20231114 / 황재문  
