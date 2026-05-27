@@ -104,13 +104,13 @@ GitOps 기반 배포 및 운영 환경 구성
 
 ## Documentation
 
-| Document | Link |
-|---|---|
-| SRS | https://docs.google.com/document/d/10GSxEElb2WK-4MGPsaRRQhR--bt9y0Z8g0ym59LoltM/edit |
-| RnR | https://docs.google.com/spreadsheets/d/1uPa3NhO_UyTBWhBqgRwmIvNmdPVYDI75DfFT1kgozJg/edit |
-| WBS | https://docs.google.com/spreadsheets/d/14kf-ioSGMrunY8ogUFs3mqoRFMSR3eHjAawgC2wZ-XE/edit |
-| Screen Design | https://docs.google.com/document/d/1J8pOJczhzr8-i7xkRTj1K48rdyPbNUAqhSk_qoXMFx0/edit |
-| Web Design | https://stitch.withgoogle.com/projects/8101077148274629590 |
+- [SRS](https://docs.google.com/document/d/10GSxEElb2WK-4MGPsaRRQhR--bt9y0Z8g0ym59LoltM/edit?usp=sharing)
+- [WBS](https://docs.google.com/spreadsheets/d/14kf-ioSGMrunY8ogUFs3mqoRFMSR3eHjAawgC2wZ-XE/edit?usp=sharing)
+- [RnR](https://docs.google.com/spreadsheets/d/1uPa3NhO_UyTBWhBqgRwmIvNmdPVYDI75DfFT1kgozJg/edit?usp=sharing)
+- [Screen List](https://docs.google.com/document/d/1J8pOJczhzr8-i7xkRTj1K48rdyPbNUAqhSk_qoXMFx0/edit?usp=sharing)
+- [UI Mockups](https://stitch.withgoogle.com/projects/8101077148274629590)
+
+UI Mockups의 경우 캔버스가 다른 위치에서 시작될 수 있습니다. 화면을 축소 후 Hand 툴을 이용해 전체 영역을 확인해 주세요
 
 ---
 
