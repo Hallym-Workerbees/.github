@@ -1,4 +1,5 @@
 # 🐝 Hallym Workerbees
+🏆 2025 한림대학교 캡스톤디자인 경진대회 금상 수상 프로젝트
 
 > Building HiveWiki — an AI-powered knowledge structuring platform.
 
