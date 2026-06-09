@@ -1,6 +1,6 @@
 # 🐝 Hallym Workerbees
 
-🏆 2026 한림대학교 캡스톤디자인 경진대회 금상 수상 프로젝트
+🏆 2026학년도 1학기 한림대학교 SW캡스톤디자인 경진대회 금상 수상 프로젝트
 
 > Building HiveWiki — an AI-powered knowledge structuring platform.
 
